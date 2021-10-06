@@ -103,8 +103,8 @@ button {
 }
 
 .gif-wrap:hover {
+  display: flex;
   transform: scale(1.09);
-  padding: 10px;
 }
 
 .gif-wrap {
