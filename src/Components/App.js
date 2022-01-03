@@ -35,7 +35,7 @@ function App() {
     <>
       <div className="main-header">
         <div className="inner">
-          <h1 className="main-title"  data-aos="fade-right">Gif Search</h1>
+          <h1 className="main-title"  data-aos="fade-right">Gif Searcher</h1>
           <SearchForm onSearch={performSearch} />
         </div>
       </div>

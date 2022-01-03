@@ -16,7 +16,7 @@ function SearchForm(props) {
 
   return (
     <form className="search-form" onSubmit={handleSubmit}>
-      <label className="is-hidden" htmlFor="search">Search</label>
+      <label className="is-hidden" htmlFor="search">Search GIFS</label>
       <input type="search"
         onChange={onSearchChange}
         name="search"
